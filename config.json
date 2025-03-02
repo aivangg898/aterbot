@@ -1,8 +1,8 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
-		"username": "Please enter the bot's username you want"
+		"host": "diddyraps.aternos.me",
+		"port": "64795",
+		"username": "Kala Adil"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
